@@ -44,7 +44,7 @@
 48~<color=#ff0000>🔫🔫🔫 \nCOM-45</color>\n\n
 49~<color=#ff0000>📻 \nSCP-1576</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\nLet you comunicate with <color=#A0A0A0>💀 dead</color>
 50~<color=#ff0000>📍 \nJailbird</color>~<size=15><color=#003DCA>⚠ \nExperimental weapon</color></size>\nThe destroyer
-51~<color=#004B93>🍵 \nSCP-O-207-914</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\n<size=17><color=#FFFF7C>✚ Helath - regen</color>\n<color=#0adc00>🏃 Movement speed Decreases</color>\n<size=15>MIXING:</size>\n<color=#ff0000>🍵 SCP-207</color> - <color=#0096FF>💥 explosion</color>\n<color=#08af00>💈 SCP-1853</color> -  <color=#0a6b00>⚠ POISON</color></size>
+51~<color=#004B93>🍵 \nSCP-O-207-914</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\n<size=17><color=#FFFF7C>✚ Helath - regen</color>\n<color=#e80000>🏃 Movement speed Decreases</color>\n<size=15>MIXING:</size>\n<color=#ff0000>🍵 SCP-207</color> - <color=#0096FF>💥 explosion</color>\n<color=#08af00>💈 SCP-1853</color> -  <color=#0a6b00>⚠ POISON</color></size>
 52~<color=#0000ff>🔫 \nFR-MG-0</color>\n\n
 53~<color=#ff0000>🔫 \nA7</color>\n\n
 54~<color=#FF8E00>🏮 \nLantern</color>~Lights the darkest places in facility in <color=#FF8E00>orange</color>
