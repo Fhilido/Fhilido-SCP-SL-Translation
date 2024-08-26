@@ -3,7 +3,7 @@
 <color=#9502b3>EXP [current] / [next]</color>
 <color=#9502b3>MAX TIER</color>
 <color=red>❌</color>
-GO TO: [camera] (<color=#0099ff>⚡[cost] AP</color>)
+📷 CAMERA: [camera] (<color=#0099ff>⚡[cost]AP</color>)
 NOT ENOUGH <color=#0099ff>⚡AP</color>
 ETA: [time] seconds
 <color=#9e0202>🔒\nHIGHER TIER REQUIRED</color>

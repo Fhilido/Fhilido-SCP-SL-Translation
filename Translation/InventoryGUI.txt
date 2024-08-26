@@ -1,4 +1,4 @@
-<color=#9803a6>{0}</color> <color=white>ammo</color> <color=#9803a6>{2}</color> <color=white>left from</color> <color=#9803a6>{1}</color>
+{0}/{1} (<color=#b4b4b4>💠 Ammo</color> type: {2})
 Damage
 Fire Rate
 Accuracy - Hip 
