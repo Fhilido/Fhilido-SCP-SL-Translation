@@ -1,0 +1,19 @@
+<b><color=#007ede>「🏬」SITE-02</color> Status</b>:
+<size=80>SCPs have run over the facility</size>
+<size=80>Foundation secured breach</size>
+<size=80>Site-02 is in CI hands</size>
+<size=80>Site-02 is in unknown position</size>
+SCPs destroy site-02. Emergency response has been scrambled...
+MTF secured site-02 and escort scientist. The facility is save again.
+CI kill everyone and take out prisoners. Now site-02 is under CI command.
+Everyone lost a lot. Winner of the war in site-02 is unknown...
+<color=orange>[summary_d_escaped] Class D</color> escaped and joined CI
+<color=#FFFF7C>[summary_s_escaped] Scientist</color> is safe
+Site-02 is destroyed due to the detonation of the alpha warhead - <color=#ff2b2b> [summary_warhead_kills] object was detected dead</color>
+Alpha Warhead in site-02 is secured
+Time from breach begin - <color=#2e02bf>[summary_round_minutes]</color> minutes and <color=#2e02bf>[summary_round_seconds]</color> seconds
+<color=#88D6D5>[summary_scp_terminated] Neutralized</color> <color=#C20000>SCP</color>
+Next round start in <color=#2e02bf>[summary_next_round_countdown]</color> seconds
+[summary_scpfrags] found dead from contact with <color=red>SCPs</color>
+
+

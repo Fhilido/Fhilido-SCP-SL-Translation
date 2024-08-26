@@ -1,0 +1,22 @@
+-
+<color=#dc00c8>🍬</color>\n<color=purple>R</color><color=#dca43c>a</color><color=#b40404>i</color><color=#f47fff>n</color><color=blue>b</color><color=#2a731f>o</color><color=purple>w</color> <color=#dca43c>C</color><color=#b40404>a</color><color=blue>n</color><color=#2a731f>d</color><color=#f47fff>y</color>
+\nA candy with all flavours
+<color=#FFFF7C>✚ 15 HP</color>\n<color=#16b800>✚ 20 AHP</color>\n<color=#00b883>🎽 Give a Bodyshot Reduction</color>\n<color=#6400b8>🏃 Invigoration for 5<size=9>s</size></color>
+<color=yellow>🍬 \nYellow Candy</color>
+\nSmell like lemon nad taste like this
+<color=#d7d7d7>🏃 +25% stamina</color>\n<color=#6400b8>🏃 Invigoration for 5<size=9>s</size></color>\n🏃 movement boost for 10<size=9>s</size>
+<color=purple>🍬 \nPurple Candy</color>
+Have a grape tast and hAVE A LOT OF WATER
+<color=#00b883>🎽 Give a Damage Reduction</color>\n<color=#FFFF7C>✚ 15 HP/10<size=10>s</size> (1.5Hp/<size=10>s</size>)</color>
+<color=red>🍬 \nRed Candy</color>
+\nCherry... Yes, it's cherry
+<color=#FFFF7C>✚ 45 HP/5<size=10>s</size> (9Hp/<size=10>s</size>)</color>
+<color=green>🍬 \nGreen Candy</color>
+\nI dont known that taste, its strong
+<color=#FFFF7C>✚ 120 HP/80<size=10>s</size> (1.5Hp/<size=10>s</size>)</color>\n<color=#00b883>□ Give a Vitality for 30<size=10>s</size></color>\n
+<color=blue>🍬 \nBlue Candy</color>
+\nIts very tasty
+<color=#16b800>✚ 30 AHP</color>
+<color=#FB00FF>🍬 \nPink Candy</color>
+MOST SWEAT CANDY THAT YOU HAVE IN YOUR MOUTH
+<color=#dc00c8>💥 BOOM</color>

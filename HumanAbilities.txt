@@ -1,0 +1,7 @@
+<b>Sprint</b>:Increases:\n<color=#70ff00>🏃 Movement Speed</color>\n<color=#e80000>🔉 Sound made</color>
+<b>Sneak</b>:Decreases:\n<color=#e80000>🏃 Movement Speed</color>\n<color=#70ff00>🔉 Sound made</color>
+<b>Inventory</b>:Open your inventory and select item using <b>LMB</b>, drop it using <b>RMB</b>
+<b><color=#FF8E00>Class-D</color> EQ</b>:You have nothing
+<b><color=#FFFF7C>Scientist</color> EQ</b>:You have:\n<color=#FFFF7C>💳 Scientist Keycard</color>\n<color=#FFFF7C>✚ Medkit </color>
+<b><color=#3080ff>NTF</color> <color=#363636>Guard</color> EQ</b>:You have:\n<color=#5B6370>🔫 FSP-9</color>\n<color=#5B6370>💳 <color=#3080ff>NTF</color> Guard Keycard</color>\n<color=#FFFF7C>✚ Medkit </color>\n<color=#5B6370>💥 Flashbang Grenade</color>
+<b>Armed EQ</b>:You have:\n<color=#5B6370>🔫 Firearm</color>\n<color=#e800c5>💳 Keycard</color>\n<color=#FFFF7C>✚ Medical Items </color>\nand classes items

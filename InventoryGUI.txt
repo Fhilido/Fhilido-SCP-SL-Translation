@@ -1,0 +1,17 @@
+<color=#9803a6>{0}</color> <color=white>ammo</color> <color=#9803a6>{2}</color> <color=white>left from</color> <color=#9803a6>{1}</color>
+Damage
+Fire Rate
+Accuracy - Hip 
+Accuracy - ADS 
+Weight
+Length
+DROP:
+Efficacy - Helmet 
+Efficacy - Vest
+Stamina Usage
+Movement Speed
+<color=#037bfc>🎒 Item</color> Limit:
+<color=#b4b4b4>💠 Ammo</color> Limit:
+<color=#d40000>{0}</color>
+Penetration
+Accuracy - Running

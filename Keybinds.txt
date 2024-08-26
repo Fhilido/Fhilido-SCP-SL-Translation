@@ -1,0 +1,39 @@
+Shoot
+Zoom
+Jump
+Interact
+Inventory
+Reload
+Sprint
+Voice Chat
+Sneak
+Move Forward
+Move Backward
+Move Left
+Move Right
+Player List
+Character Info
+Remote Admin
+Toggle Flashlight
+Alt Voice Chat
+Noclip
+Game Console
+-
+Inspect
+Cock Revolver
+Throw Item
+-
+-
+-
+Hide GUI
+Toggle Noclip Fog
+-
+-
+-
+Free Look Mode
+Lock Door
+Release All Locks
+Blackout
+Lockdown
+Ping
+Breach Scanner

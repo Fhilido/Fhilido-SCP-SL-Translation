@@ -1,0 +1,54 @@
+0~<color=#bcb1e4>💳 \nJanitor Keycard</color>
+1~<color=#FFFF7C>💳 \nScientist Keycard</color>
+2~<color=#ddab20>💳 \nSenior Scientist Keycard</color>
+3~<color=#217778>💳 \nZone Manager Keycard</color>
+4~<color=#5B6370>💳 \n<color=#3080ff>NTF</color> Guard Keycard</color>
+5~<color=#70C3FF>💳 \n<color=#3080ff>NTF</color> Private Keycard</color>
+6~<color=#b6887f>💳 \nContainment Engineer Keycard</color>
+7~<color=#0096FF>💳 \n<color=#3080ff>NTF</color> Operative Keycard</color>
+8~<color=#003DCA>💳 \n<color=#3080ff>NTF</color> Captain Keycard</color>
+9~<color=#ba1846>💳 \nFacility Manager Keycard</color>
+10~<color=#008F1C>📟 \nCI Breaking Device</color>
+11~<color=#FFFFFF>💳 \nO5 Council Keycard</color>
+12~<color=#5B6370>📻 \nRadio</color>~ Let you communicate with others players heaving radio\n<size=10>\n<color=#0ac700>Short (108 meters) -0.5 AP to 40 AP per minute</color>\n<color=#c4c700>Medium (180 meters) -1.2 AP to 60 AP per minute</color>\n<color=#fc9803>Long (1080 meters) -4.5 AP to 120 AP per minute</color>\n<color=#fc0f03>Ultra (7200 meters) -13.5 AP to 240 AP per minute</color>\n</size>
+13~<color=#FFFF7C>🔫 \nCOM-15</color>\n\n
+14~<color=#FFFF7C>✚ \nMedkit </color>~<color=#FFFF7C>✚ Helath - 65 <size=15>HP</size>\n<color=#8e0909>🔄 Use Time - 4<size=15>s</size></color>
+15~<color=#FF8E00>🔦 \nFlashlight</color>~Lights the darkest places in facility
+16~<color=#003DCA>⚡ \nMicro H.I.D.</color>~<size=15><color=#003DCA>⚠ \nExperimental weapon</color></size>\nThe mobile version of H.I.D.
+17~<color=#ff0000>💊 \nSCP-500</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\n<color=#FFFF7C>✚ HEALTH - 100 HP</color>\n<color=#FFFF7C>✚ Regeneration - 10<size=15>s</size></color>\n<color=#16d300>🚫 Remove every efect</color>
+18~<color=#ff0000>🍵 \nSCP-207</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\n<size=17><color=#FFFF7C>✚ Helath - decrease</color>\n<color=#0adc00>🏃 Movement boost</color>\n<size=15>MIXING:</size>\n<color=#004B93>🍵 SCP-O-207-914</color> - <color=#0096FF>💥 explosion</color>\n<color=#08af00>💈 SCP-1853</color> -  <color=#0a6b00>⚠ POISON</color></size>
+20~<color=#0062ff>🔫 \nMTF-Epsilion 11</color>\n\n
+21~<color=#00c8ff>🔫 \nCrossvec</color>\n\n
+23~<color=#363636>🔫 \nFSP-9</color>\n\n
+24~<color=#00360e>🔫 \nLogicer</color>\n\n
+25~<color=#0096FF>💥 \nExplosive Grenade</color>~🕤 Fuse Time - 3.5 <size=15>s</size>\n\ngrenade that causes heavy damage to entities around him
+26~<color=#363636>💥 \nFlashbang Grenade</color>~🕤Fuse Time - 2.8 <size=15>s</size>\n\na grenade that blinds all entities around him
+30~<color=#363636>🔫 \nCOM-18</color>\n\n
+31~<color=red>⚽ \nSCP-018</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\nBALL THAT SPEED UP AFTER SOME TIME
+32~<color=#ff0000>👒 \nSCP-268</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\n<color=#7200b7>Give invisible for 15<size=15>s</size></color>
+33~<color=#FFFF7C>💉 \nAdrenaline</color>~<color=#FFFF7C>✚ Health - 40 <size=15>AHP</size> (-1.2 <size=15>AHP</size>/<size=15>s</size>)</color>\n<color=#8e0909>🔄 Use Time - 2<size=15>s</size></color>
+34~<color=#FFFF7C>💊 \nPainkillers</color>~<color=#FFFF7C>✚ Helath - 50 <size=15>HP</size>/15<size=15>s</size> (5 <size=15>HP</size>/<size=15>s</size>)</color>\n<color=#ababab>👃 Weight - 0.25 kg</color>\n<color=#8e0909>🔄 Use Time - 1<size=15>s</size></color>\n<color=#aac900>🕤 Pick Up Time - 0.25<size=15>s</size></color>
+35~<color=#ffff>💿 \nCoin</color>~You can throw it and thats everything
+36~<color=#5B6370>🎽 \nArmor - Light</color>
+37~<color=#0096FF>🎽 \nArmor - Standard</color>
+38~<color=#0D7D35>🎽 \nArmor - Heavy</color>
+39~<color=#00691c>🔫 \nRevolver</color>\n\n
+40~<color=#00a32c>🔫 \nAK</color>\n\n
+41~<color=#00691c>🔫 \nShotgun</color>\n\n
+42~<color=#ff0000>🍬 \nSCP-330</color>~A bag with following candies:
+43~<color=#ff0000>💡 \nSCP-2176</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\nTurn off lights & close doors for 🕤 <b>13<size=15>s</size></b> when throw to the room
+44~<color=#00a4a7>⚱ \nSCP-244-A</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\nCreate a freeze fog that takes HP
+45~<color=#00a4a7>⚱ \nSCP-244-B</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\nCreate a freeze fog that takes HP
+46~<color=#08af00>💈 \nSCP-1853</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size><size=17>\nSpeed up every action, decrease recoil, remove speed penalties\n<size=15>MIXING:</size>\n<color=#004B93>🍵 SCP-O-207-914</color> &  <color=#ff0000>🍵 \nSCP-207</color> - <color=#0a6b00>⚠ POISON</color></size></size>
+47~<color=#003DCA>🔫 \n3-X Particle Disruptor
+48~<color=#ff0000>🔫🔫🔫 \nCOM-45</color>\n\n
+49~<color=#ff0000>📻 \nSCP-1576</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\nLet you comunicate with <color=#A0A0A0>💀 dead</color>
+50~<color=#ff0000>📍 \nJailbird</color>~<size=15><color=#003DCA>⚠ \nExperimental weapon</color></size>\nThe destroyer
+51~<color=#004B93>🍵 \nSCP-O-207-914</color>~<size=15><color=#C20000>⚠ \nSCP Item</color></size>\n<size=17><color=#FFFF7C>✚ Helath - regen</color>\n<color=#0adc00>🏃 Movement speed Decreases</color>\n<size=15>MIXING:</size>\n<color=#ff0000>🍵 SCP-207</color> - <color=#0096FF>💥 explosion</color>\n<color=#08af00>💈 SCP-1853</color> -  <color=#0a6b00>⚠ POISON</color></size>
+52~<color=#0000ff>🔫 \nFR-MG-0</color>\n\n
+53~<color=#ff0000>🔫 \nA7</color>\n\n
+54~<color=#FF8E00>🏮 \nLantern</color>~Lights the darkest places in facility in <color=#FF8E00>orange</color>
+55~
+56~
+57~
+58~

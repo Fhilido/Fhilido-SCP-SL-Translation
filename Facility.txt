@@ -1,0 +1,49 @@
+-
+-
+START
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+VOICE CHAT
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+WAITING FOR PLAYERS \n
+-
+-
+-
+<color=#00bfff>\n👥\nPlayers</color>
+You escaped!\nAs <color=#FFFF7C>👔 Scientists</color>
+You escaped!\nAs <color=#FF8E00>👤 Class D</color>
+Your role:
+Escape time:\n[escape_minutes]:[escape_seconds]
+「[time]」 \n <b>[item]</b>
+\n\n\n\nPress <color=#fff000>F1</color> for more information about your class
+-
+You are recaptured!\nAs <color=#FF8E00>👤 Class D</color>
+You are recaptured!\nAs <color=#FFFF7C>👔 Scientists</color>
+ROUND START: \n<color=#00bfff>{0}</color>
+ROUND START: \n<color=#FF5050>🔒</color>
+-
+To cancel throw press <b>[key]</b>
+-
+-
+-
+Automatic (System Default)
+No Microphone Detected!
+-
+Press [key] to blow out the candles

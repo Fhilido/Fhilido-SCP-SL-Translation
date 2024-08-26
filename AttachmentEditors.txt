@@ -1,0 +1,18 @@
+Preset #Custom
+Preset #[index]
+<color=#00bf26>💾</color>
+<color=red>CLEAR ATTACHMENTS</color>
+Default
+PRESETS
+<color=#bf0000>-🌕-</color>
+<color=#ccc>FIREARM CUSTOMIZATION POINT</color>\n
+WELCOME, TO THE FIREARM CUSTOMIZATION POINT!
+<color=#008ee0>-🕧-</color>
+<color=#07e000>-🌑-</color>
+<size=52><color=#ccc>SITE-02 FIREARM CUSTOMIZATION POINT</color> IS READY</size>\n<size=42><color=#ccc>PLEASE EQUIP YOUR FIREARM</color></size>
+POWERING DOWN
+WORKSTATION IS TURNING OFF
+SUMMARY SCREEN
+CLOSE SUMMARY
+[Attachment] Customization
+Press <b>[Key]</b> to edit attachments.

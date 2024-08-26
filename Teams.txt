@@ -1,0 +1,7 @@
+<color=#C20000>🔆 SCP</color>
+<color=#3080ff>👥 NTF</color>
+<color=#029600>🌟 CI</color>
+<color=#FFFF7C>👔 Scientists</color>
+<color=#FF8E00>👤 Class-D</color>
+<color=#A0A0A0>💀 Dead</color>
+Unclassified

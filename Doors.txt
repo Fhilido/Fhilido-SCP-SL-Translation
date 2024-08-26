@@ -1,0 +1,10 @@
+<color=green><size=40>「🔓」</size>\n<size=30>OPENED</size></size></color>
+<color=#07A2FF><size=40>「🔒」</size>\n<size=30>CLOSED</size></size></color>
+<color=#ffbd8a><size=40>「⇔」</size>\n<size=30>MOVING</size></size></color>
+<color=red><size=35>「🚫」</size>\n</size></color>
+<color=red><size=35>「💥」</size></color>
+<color=red><size=35>「❌」</size></color>
+<color=green><size=35>「✔️」</size></color>
+<color=#9502b3><size=35>「💳」</size></size></color>
+<color=#ffbd8a><size=35>「🏃」</size></color>
+<color=#ff5e5e><size=35>「❗」</size></color>

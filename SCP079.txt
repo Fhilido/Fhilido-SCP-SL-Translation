@@ -1,0 +1,17 @@
+AUXILIARY POWER
+EXP
+CAMERA FEED ONLINE
+PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
+EXP gained:
+Cooperative work
+<color=orange>Class-D</color> termination assist
+color=green>CI</color> termination assist
+<color=blue>MTF</color> termination assist
+<color=cyan>Scientist</color> termination assist
+SCP termination assist
+LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
+General interactions
+You are attacked!
+Generators have been highlighted on the map
+DANGER
+SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}

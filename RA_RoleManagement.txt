@@ -1,0 +1,24 @@
+None
+<color=#C20000>The Sculpture</color>
+<color=#FF8E00>Class D</color>
+<color=#A0A0A0>Dead</color>
+<color=#C20000>The Old Man</color>
+<color=#3080ff>NTF</color> <color=#FFFF7C>Scientists</color>
+<color=#C20000>Plague Doctor</color>
+<color=#FFFF7C>Scientist</color>
+<color=#9502b3>Old AI</color>
+<color=#029600>CI</color> <color=#FF8E00>Class D</color>
+<color=#C20000>Shy guy</color>
+<color=#8d1414>Zombie</color>
+<color=#3080ff>NTF</color> <color=#0062ff>Sergeant</color>
+<color=#3080ff>NTF</color> <color=#0000ff>Captain</color>
+<color=#3080ff>NTF</color> <color=#00c8ff>Private</color>
+<color=#474747>Nobody</color>
+<color=#3080ff>NTF</color> <color=#363636>Guard</color>
+<color=#C20000>With Many Voices</color>
+Custom Role
+<color=#029600>CI</color> <color=#00a32c>Rifleman</color>
+<color=#029600>CI</color> <color=#00691c>Marauder</color>
+<color=#029600>CI</color> <color=#00360e>Repressor</color>
+Overwatch
+Filmmaker

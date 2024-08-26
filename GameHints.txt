@@ -1,0 +1,6 @@
+-
+<size=100><color=red>❌</color></size> \n Max <color=red>[type]</color> ammo (<color=red>[max_type_count]</color>)
+<size=100><color=red>❌</color></size> \n Max <color=red>[type]</color> ammo (<color=red>[max_type_count]</color>)
+<size=100><color=red>❌</color></size> \n Max <color=red>[type]</color> (<color=red>[max_type_count]</color>)
+<size=100><color=red>❌</color></size> \n Max <color=red>[type]</color> (<color=red>[max_type_count]</color>)
+<size=100><color=red>❌</color></size> \n Inventory <color=red>full</color>

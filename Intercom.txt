@@ -1,0 +1,8 @@
+<color=#00d612>READY TO TALK</color>
+<color=#00d612>-🔉-</color>\nTime left: {0}
+<color=#00d612>-🔉-</color>\nNO LIMIT
+<color=#0088d6>🔄</color>\n{0}
+<color=#bf0000>-🚫-</color>
+<color=#bf0000>-🚫-</color>
+<color=#ababab>UNKNOWN</color>
+<color=#0088d6>PLEASE WAIT...</color>
