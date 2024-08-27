@@ -34,7 +34,7 @@ If translation don't show up check if you copy translation to good folder and if
 
 
 ## Info
-###Version
+### Version
 * 1.0 - The first version of my trnaslation (can have misstakes!)
   * Add every file with translation
  
