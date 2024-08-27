@@ -33,9 +33,16 @@ If translation don't show up check if you copy translation to good folder and if
 ## Example Screenshot from game
 
 
-## Versions
+## Info
+###Version
 * 1.0 - The first version of my trnaslation (can have misstakes!)
   * Add every file with translation
+ 
+### To do
+* Do better translation to weapon station
+* Settings change
+* Small repair
+
 ## Authors
 
 #### Fhilido
