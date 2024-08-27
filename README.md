@@ -42,7 +42,13 @@ If translation don't show up check if you copy translation to good folder and if
 * Do better translation to weapon station
 * Settings change
 * Small repair
+* Hints
+* Add more intercom, alpha warhead and Micro HID sign
+* More icons*
+* Rework colors*
+* Better F1 hints (SCP)
 
+*Don't know that I will be adding this
 ## Authors
 
 #### Fhilido
