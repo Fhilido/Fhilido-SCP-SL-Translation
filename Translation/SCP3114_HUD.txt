@@ -1,16 +1,16 @@
-Disguised | [role_name]
-Unable to attack | Hold [key]
+Disguised! \nAs [role_name]
+Unable to attack! \nHold [key] to reavel yourself
 Items cannot be used
-[key] to communicate
-Already been used for a disguise.
-Disguised | Hold [key]
+Press [key] to communicate with human
+Already been used for a disguise
+Disguised! \nHold [key] to reveal yourself
 Cannot be used as a disguise
 <size=80><color=#820000>□</color></size>\nBones data:\n「<color=#5645d6>[player_name]</color> as <color=#646466>[UNKNOWN]</color>」
-Disguise as a [role].
+Disguise as a [role]
 Disguise
-Strangulation Cooldown
-Icognito:Name and identity are hidden. While disguised as a human, you can hold certain objects — but you cannot used items.
-Attack:Have a Hume Shield. Restoring a small amount of Hume Shield on each hit.
-Strangulation:You can grab and strangulate people.This attack can be interrupted.
-Under Their Skin:Can disguise as people. Hold [key] to remove it.
-Press and hold [key] for longer to remove your current disguise.
+Cooldown
+Incognito:Name and identity are hidden. While disguised as a human, you can hold certain objects — but you cannot used items
+Attack:After a atack you get thair meat, meat give you a <color=#a000d1>hume shiled</color>
+Strangulation:You can grab neck and do what SCP-173 do! Just strangulate them and kill. This can be interrupted by shoting at you
+Under Their Skin:When you find a corpse, you can disguised as them stoling them name and class, that give you a lot of options. When you are disguised hold [R] to reveal yourself and kill them
+Hold [key] to remove your current disguise

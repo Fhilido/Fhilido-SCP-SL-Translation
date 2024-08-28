@@ -7,7 +7,7 @@
 | <color=#00CFD6>⚡ Tesla Gate</color>
 | <color=#A20000>💥 Alpha Warhead</color>
 | <color=#FFFF7C>👔 Scientists</color>
-| <color=#FF8E00>👤 Class-D Personnel</color>
+| <color=#FF8E00>👤 Class D</color>
 | <color=#029600>🌟 CI</color>
 <color=#C20000>SCP-[scp]</color>
 | <color=#003CB4>👥 NTF</color> | <color=#656565>Unknown</color>
@@ -17,11 +17,11 @@
 | <color=#FFFFFF>🔄 RECONTAINMENT AVAILABE</color>
 <color=#363636>「⚠️」HEAVY CONTAINMENT ZONE</color> | <color=#88D6D5>Overcharge</color>
 <color=#363636>「⚠️」HEAVY CONTAINMENT ZONE</color> | <color=#88D6D5>Operational</color>
-<color=#c93e02>「🎭」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#00bfff>15 minutes</color>
-<color=#c93e02>「🎭」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#1aff00>[time] minutes</color>
-<color=#c93e02>「🎭」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#f2ff00>1 minute</color>
-<color=#c93e02>「🎭」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#ff8800>30 seconds</color>
-<color=#c93e02>「🎭」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#ff0000>🔒LOCKDOWN</color>
+<color=#c93e02>「🚨」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#00bfff>15 minutes</color>
+<color=#c93e02>「🚨」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#1aff00>[time] minutes</color>
+<color=#c93e02>「🚨」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#f2ff00>1 minute</color>
+<color=#c93e02>「🚨」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#ff8800>30 seconds</color>
+<color=#c93e02>「🚨」LIGHT CONTAINMENT ZONE</color> | <color=#e0e000>Decontamination</color> | <color=#ff0000>🔒LOCKDOWN</color>
 <color=#007ede>「🏬」SITE-02</color> | Emergency Detonation | <color=#ff2b2b>[time] seconds</color> left
 <color=#007ede>「🏬」SITE-02</color> | Emergency Detonation | <color=#ff2b2b>Canceled</color>
 <color=#007ede>「🏬」SITE-02</color> | Emergency Detonation | <color=#ff2b2b>[time] seconds</color> left

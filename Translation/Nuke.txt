@@ -1,4 +1,4 @@
-<size=80><color=red>DETONATION IS UNREACHABLE</color></size>
-<color=#22ECE6><size=80>COOLING DOWN</size></color>
-<color=#00d612><size=80>READY TO DETONATE</size></color>
+<size=100%><color=red>DETONATION IS UNREACHABLE</color></size>
+<size=100%><color=#22ECE6>COOLING DOWN</color></size>
+<size=100%><color=#00d612>READY TO DETONATE</color></size>
 <color=#d60000>⚠ DETONATING ⚠</color>

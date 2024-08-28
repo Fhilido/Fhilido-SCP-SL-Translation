@@ -1,8 +1,8 @@
-ATTACK COOLDOWN
-Unavailable on Surface.
-Unavailable during elevator travel.
+COOLDOWN
+<color=red>🚫 UNABLE TO TELEPORT IN SURFACE 🚫</color>
+<color=red>🚫 UNABLE TO TELEPORT IN ELEVATOR 🚫</color>
 An unstoppable force capable of easily bypassing any door in the facility.
-Capture:Ensnares a human in close distance, entrapping them within the pocket dimension — a deadly prison dictated by your rule. The joy of capturing new prey replenishes Vigor.
-Stalk:Submerges you into the floor. Move around quickly and invisibly, regenerate, and prepare to strike your prey. Uses Vigor, which regenerates slowly while Stalk is inactive.
-Hunter’s Atlas:Quickly move to a nearby room, at a great Vigor cost. Such movement is instinct to you, having prowled through the Site's corridors for as long as you have.
-Blissful Agony:While Stalking, you can only see injured humans. The greater their agony, the greater the distance you can spot them from. Escapees of the pocket dimension are traumatized, leaving them visible from anywhere.
+Capture:When you come to someone closer, you can take them to <i>pocket dimension</i> by double pressing atack button
+Stalk:You can use <color=#0288db>vigor</color> to submarge to ground. When underground you move faster, invisible and regenrate <color=#a000d1>hume shiled</color>, but you can't atack players and don't saw them until them are close to you
+Hunter’s Atlas:You can instantly teleport to room that show up on your map.\n\n\n⚠️ WARNING - that don't regenerate your <color=#a000d1>hume shiled</color>
+Blissful Agony:After taking human to pocket dimension they are in agony. When you touch them again you instantly kill them. Also in <i>stalk mode</i> you see them 

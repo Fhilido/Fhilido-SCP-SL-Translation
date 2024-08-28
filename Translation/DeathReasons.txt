@@ -1,6 +1,6 @@
 <size=80><color=#820000>💀</color></size>\nDead body data:\n「<color=#5645d6>[user]</color> as [class]」\n[cause]
 Successful Recontained
-Left during the evacuation from the <color=#007ede>SITE-02</color> due to the detention of the <color=#9e0207>alpha warhead</color>
+Left to <color=#6e6e6e>death</color> during the evacuation from the <color=#007ede>SITE-02</color> due to the detention of the <color=#9e0207>alpha warhead</color>
 There are no visible injuries on the body, and the absence of a pulse suggests a <color=#5c0005>heart attack</color> caused by <color=#C20000>SCP-049</color>
 <color=#6e6e6e>No cause of death is apparent</color>
 Multiple burns and <color=#067dd1>electricity</color> flowing through this body resulted in <color=#6e6e6e>death</color>
@@ -10,11 +10,11 @@ The numerous wounds on your body caused you to <color=#6e6e6e>die</color> from <
 <color=#8c8c8c>The fall</color> caused numerous fractures around the spine, resulting in <color=#6e6e6e>death</color>
 <color=#8c8c8c>The fall</color> caused numerous fractures around the spine, resulting in <color=#6e6e6e>death</color>
 Corrosion is visible throughout the body and <color=#6e6e6e>death</color> itself is caused by being in <color=#C20000>SCP-106's</color> <color=#363535>pocket dimention</color>
-Left during the evacuation from the <color=#c93e02>LIGHT CONTAINMENT ZONE</color> due to the <color=#e0e000>decontamination</color>
-<color=#009400>The poison</color> caused by the combination of <color=#ff0000>🍼 SCP-207</color> and <color=red>💉 SCP-1853</color> ate this body from the inside and caused <color=#6e6e6e>death</color>
-<color=#009400>The poison</color> caused by the combination of <color=#ff0000>🍼 SCP-207</color> and <color=red>💉 SCP-1853</color> ate your body from the inside and caused your <color=#6e6e6e>death</color>
-Sweet blood flows from the mouth, likely <color=#6e6e6e>death</color> caused by <color=#ff0000>🍼 SCP-207</color>
-<color=#ff0000>🍼 SCP-207</color> caused internal bleeding and <color=#6e6e6e>death</color>
+Left during the evacuation from the <color=#c93e02>LIGHT CONTAINMENT ZONE</color> and <color=#6e6e6e>die</color> due to the <color=#e0e000>decontamination</color>
+<color=#009400>The poison</color> caused by the combination of <color=#ff0000>🍵 SCP-207</color> and <color=#08af00>💈 SCP-1853</color> ate this body from the inside and caused <color=#6e6e6e>death</color>
+<color=#009400>The poison</color> caused by the combination of <color=#ff0000>🍵 SCP-207</color> and <color=#08af00>💈 SCP-1853</color> ate your body from the inside and caused your <color=#6e6e6e>death</color>
+Sweet blood flows from the mouth, likely <color=#6e6e6e>death</color> caused by <color=#ff0000>🍵 SCP-207</color>
+<color=#ff0000>🍵 SCP-207</color> caused internal bleeding and <color=#6e6e6e>death</color>
 You took 3 <color=#ff0000>🍬 SCP-330</color> and they cut off your arms, causing you to <color=#6e6e6e>die</color> from <color=#8a0000>bleeding out</color>
 Multiple burns and <color=#067dd1>electricity</color> flowing through your body caused your <color=#6e6e6e>death</color>
 Numerous burns are visible and missing limbs <color=#d1a906>after the explosion</color> resulted in <color=#6e6e6e>death</color>

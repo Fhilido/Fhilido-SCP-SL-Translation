@@ -1,23 +1,23 @@
-<b>This soul is no longer with us...</b>
-<b>This soul has decayed beyond a cure...</b>
-<b>This soul has been revived too many times...</b>
-<b>This soul no longer wants to be revived...</b>
-<b>This corpse cannot be revived...</b>
-<b>This corpse has already been consumed.</b>
-<b>Only human corpses may be consumed.</b>
-ATTACK COOLDOWN
-You have denied further resurrection from SCP-049!
-Press [key] to deny further resurrection.
-No target found.
-You're already at full health.
-This corpse is already being consumed.
+<b>Soul of this body is already somewhere else</b>
+<b>This body wait too long to be cure</b>
+<b>This body don't be alive after curing</b>
+<b>This body can't be revive becouse don't have soul</b>
+<b>This body cannot be revived</b>
+<b>This corpse don't have meat to consume</b>
+<b>This corpse is not human</b>
+COOLDOWN
+Denied further resurrection from <color=#C20000>plague doctor</color>!
+Press <color=#9502b3>[key]</color> to deny further resurrection  (only for this resurect)
+No target detected
+<b>You don't have to regenerate</b>
+<b>Only one for person, this body is already consumed</b>
 Slow and fragile, SCP-049 specializes as an ambush predator, able to quickly turn the tide of a game with hordes of "cured" personnel.
 Fast and dangerous, SCP-049-2 instances swarm ahead of their master to sow panic and chaos, creating new bodies to join the tide.
-Cardiac Attack:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
-Good Sense of the Doctor:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
-The Doctor’s Call:You signal your location to your cured personnel. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
-Waste Not, Want Not:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
-Lobotomized Bloodlust:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
-Voracity:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
-Revive
-Hold [key]
+Cardiac Attack:When you touch a human, you gave them <i>cardiac attack</i>. This attack is deadly if they don't use medical items. You can also touch them again to kill 
+Good Sense of the Doctor:When you see a human you are able to use your sense that speed up you.\n\n⚠ WARNING - When you touch other or target die person the sense is turn off
+The Doctor’s Call:After using this ability your position is show to <color=#8d1414>zombie's</color>. When they stand neer you, they get a <color=#a000d1>hume shiled</color> (max 100)
+The cure:You are doctor that can cure people and give them second live. The <color=#8d1414>zombie</color> now are in your side
+Bloodlust:When you see a human or consume a body your body is full of bad energy that speed you up
+Regenerate:You are without benefits. When you see a fresh body, you can eat them to regenerate HP
+Cure this human
+Hold <color=#9502b3>[key]</color>

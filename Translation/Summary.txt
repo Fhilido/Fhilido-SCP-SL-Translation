@@ -1,10 +1,10 @@
 <b><color=#007ede>「🏬」SITE-02</color> Status</b>:
-<size=80>SCPs have run over the facility</size>
-<size=80>Foundation secured breach</size>
-<size=80>Site-02 is in CI hands</size>
-<size=80>Site-02 is in unknown position</size>
+<color=red><size=80>SCPs have run over the facility</size></color>
+<color=#3080ff><size=80>Foundation secured breach</size></color>
+<color=#029600><size=80>Site-02 is in CI hands</size></color>
+<color=white><size=80>Site-02 is in unknown position</size></color>
 SCPs destroy site-02. Emergency response has been scrambled...
-MTF secured site-02 and escort scientist. The facility is save again.
+MTF secured site-02 and escort scientists. The facility is save again.
 CI kill everyone and take out prisoners. Now site-02 is under CI command.
 Everyone lost a lot. Winner of the war in site-02 is unknown...
 <color=orange>[summary_d_escaped] Class D</color> escaped and joined CI

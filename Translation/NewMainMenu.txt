@@ -10,7 +10,7 @@ Social Media
 <color=#05e6ad>Friends</color>
 Search For Servers
 Create Server
-Re-Join
+Rejoin
 Direct Connect
 Refresh
 Hide Empty Games
@@ -55,8 +55,8 @@ No Whitelist
 -
 -
 -
-Connect
-Back
+「Connect」
+「Back」
 -
 -
 -
@@ -92,7 +92,7 @@ For playing our game!
 -
 -
 「Guide」
-Rent a Server
+Rent Server
 
 
 

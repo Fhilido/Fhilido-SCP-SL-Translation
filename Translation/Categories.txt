@@ -1,4 +1,4 @@
-
+None
 <color=#e800c5>💳 Keycards</color>
 <color=#FFFF7C>✚ Medical Items </color>
 <color=#5B6370>📻 Radio</color>
@@ -6,5 +6,5 @@
 <color=#0096FF>💥 Grenades</color>
 <color=#C20000>⚠ SCP Items</color>
 <color=#003DCA>⚡ Micro H.I.D.</color>
-<color=#b4b4b4>💠 Ammo</color>
+<color=#b4b4b4>🔘 Ammo</color>
 <color=#0D7D35>🎽 Body armor</color>

@@ -9,69 +9,69 @@ ETA: [time] seconds
 <color=#9e0202>🔒\nHIGHER TIER REQUIRED</color>
 <color=red>❌</color>\nINVALID CAMERA
 <color=red>❌\nDOOR ACCESS DENIED</color>
-<color=green>🔓OPEN DOOR</color> (<color=#0099ff>⚡[cost] AP</color>)
-<color=#07A2FF>🔒CLOSE DOOR</color> (<color=#0099ff>⚡[cost] AP</color>)
-<color=red>🔐LOCK DOOR</color> (<color=#0099ff>⚡[cost] AP</color>)
-<color=green>🔑UNLOCK DOOR</color>
+<color=green>🔓 OPEN DOOR</color> (<color=#0099ff>⚡ [cost] AP</color>)
+<color=#07A2FF>🔒 CLOSE DOOR</color> (<color=#0099ff>⚡ [cost] AP</color>)
+<color=red>🔐 LOCK DOOR</color> (<color=#0099ff>⚡ [cost] AP</color>)
+<color=green>🔑 UNLOCK DOOR</color>
 <color=red>🕛\nCOOLDOWN</color>
-<color=#0099ff>⚡AUXILIARY POWER</color>
+<color=#0099ff>⚡ AUXILIARY POWER</color>
 <color=red>⚠️ TURNING ON GENERATORS! ⚠️</color>
-<color=green>🔑UNLOCK ALL DOOR</color>
+<color=green>🔑 UNLOCK ALL DOOR</color>
 <color=#007ede>「🏬」OPEN SITE-02 MAP</color>
 <color=red>❌</color>
-<color=#c93e02>「🎭」LIGHT CONTAINMENT ZONE</color>
+<color=#c93e02>「🚨」LIGHT CONTAINMENT ZONE</color>
 <color=#363636>「⚠️」HEAVY CONTAINMENT ZONE</color>
 <color=#fae902>「🚪」ENTRANCE ZONE</color>
 <color=#00b30c>「🏃」SURFACE ZONE</color>
-💡BLACKOUT (<color=#0099ff>⚡[cost] AP</color>)
+💡 BLACKOUT (<color=#0099ff>⚡ [cost] AP</color>)
 <color=red>🕛</color>\nBLACKOUT UNAVAILABLE
 <color=red>🕛</color>\nLIMIT OF BLACKOUTS REACHED
 <color=red>🕛\nCOOLDOWN</color>
-SEND ELEVATOR (<color=#0099ff>⚡[cost] AP</color>)
-<color=red>🔐LOCKDOWN</color> (<color=#0099ff>⚡[cost] AP</color>)
+SEND ELEVATOR (<color=#0099ff>⚡ [cost] AP</color>)
+<color=red>🔐 LOCKDOWN</color> (<color=#0099ff>⚡ [cost] AP</color>)
 <color=red>🕛\nCOOLDOWN</color>
-DOORS 3Rr0R
-📌PING LOCATION (<color=#0099ff>⚡[cost] AP</color>)
+<color=red>DOORS 3Rr0R</color>
+📌 PING LOCATION (<color=#0099ff>⚡ [cost] AP</color>)
 <color=red>❌</color>\nMAX PING 
 <color=red>❌</color>\nCAMERA SWITCH FAILED
 <color=red>3Rr0R</color>
-RECONNECTING TIME: [time]s
-<color=#0096FF>⚡FIRE TESLA GATE</color> (<color=#0099ff>⚡[cost] AP</color>)
+Try to reconect....\n[time]s
+<color=#0096FF>⚡ FIRE TESLA GATE</color> (<color=#0099ff>⚡ [cost] AP</color>)
 <color=red>🕛\nCOOLDOWN</color>
-$<color=#9502b3>💳ACCESS TIER [tier]</color>$ - <color=#029e09>🔓</color>
-$AUXILIARY POWER$ limit increased to $[limit]$.
-$💡BLACKOUT$ <color=#038003>available</color> (<b>[key]</b>) - disable room lights.
-$💡BLACKOUT$ capacity <color=#038003>increased</color> to $[number]$
-$<color=red>🔐LOCKDOWN</color>$<color=#038003> available</color> (<b>$[key]$</b>) - temporarily lock down all doors in a room
+$<color=#9502b3>💳 ACCESS TIER [tier]</color>$ - <color=#029e09>🔓</color>
+$<color=#0099ff>□ AP</color>$ limit increased to $[limit]$.
+$💡 BLACKOUT$ <color=#038003>available</color> (<b>[key]</b>) - disable room lights.
+$💡 BLACKOUT$ capacity <color=#038003>increased</color> to $[number]$
+$<color=red>🔐 LOCKDOWN</color>$<color=#038003> available</color> (<b>$[key]$</b>) - temporarily lock down all doors in a room
 +<color=#9502b3>[amount] EXP</color> - Admin
 +<color=#9502b3>[amount] EXP</color> - Assist - [role]
 +<color=#9502b3>[amount] EXP</color> - Termination - [role]
 +<color=#9502b3>[amount] EXP</color> - Witnessed - [role] 
 +<color=#9502b3>[amount] EXP</color> - pursuit assist
 +<color=#9502b3>[amount] EXP</color> - Protection
-+<color=#9502b3>[amount] EXP</color> - Protection - Micro H.I.D.
-<color=red>❌DOOR ARE LOCKED</color> 
-💡ZONE BLACKOUT (<color=#0099ff>⚡[cost] AP</color>)
-$💡ZONE BLACKOUT$ <color=#038003>available</color> (<b>[key]</b>) -  Turn off the lights in one zone (next to zone labels on the $Facility Map$)
++<color=#9502b3>[amount] EXP</color> - Protection - <color=#003DCA>⚡ Micro H.I.D.</color>
+<color=red>❌ DOOR ARE LOCKED</color> 
+💡 ZONE BLACKOUT (<color=#0099ff>⚡ [cost] AP</color>)
+$💡 ZONE BLACKOUT$ <color=#038003>available</color> (<b>[key]</b>) -  Turn off the lights in one zone (next to zone labels on the $Facility Map$)
 <color=red>❌\nCOOLDOWN</color>
 BLACKOUT ACTIVE
 <color=red>❌</color>\nZONE BLACKOUT UNAVAILABLE
-DETECTED LIFEFORMS
-💀TARGETS
-<color=#C20000>🌀SCPs</color>
-Civilians - <color=#FF8E00>🏃Class-D</color> and <color=#FFFF7C>👓scientists</color>
-Military - <color=#002CE1>🚁NTF</color> and <color=#029600>🚛CI</color>
-<color=#636363>🔊USE SPEAKER</color>
+<color=#C20000>🔆</color> & <color=#1aab00>□</color>
+<color=#1aab00>□</color>
+<color=#C20000>🔆 SCPs</color>
+<color=#1aab00>👤 Civilians</color>
+<color=#158003>🔫 Military</color>
+<color=#636363>🔊 USE SPEAKER</color>
 <color=red>❌\nELEVATOR ACCESS DENIED</color>
 SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
-Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time.
-Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter.
+Virtually Indestructible:<color=#88D6D5>3 generators</color> that can overcharge <color=#363636>heavy</color> and recontained you, but to power up them humans need to wait a lot of time, this action can be <color=red>cancel</color>
+Unlimited Access:You can access to almost every point in facility, but without other <color=#C20000>SCP</color> you are almost uselles. Help them killing everyone and watch how everthing goes as planned
+Deep Learning:Assist, watching, killing, protecting, that things give you <color=#9502b3>EXP</color>. After geting some EXP, you will get a <color=#9502b3>💳 ACCESS TIER</color>. Higher level is more posibility and more <color=#0099ff>⚡ AP</color>
+Overwatch:You can be everywher. That give you posibility to ping humans or other point of interest
 $<color=#02d1a1>「🔊」BREACH SCANNER</color>$<color=#038003> available</color> ($SITE-02 Map$)  - periodically scan for remaining survivors
-<color=red>❌</color><color=#0099ff>⚡AP</color> POWER REGEN SUSPENDED
-[precentage] <color=#0099ff>⚡AP</color> REGEN REDUCED 
-<color=red>❌\n LOCK DOOR ACTIVE</color>
+<color=red>❌</color> <color=#0099ff>⚡ AP</color> POWER REGEN SUSPENDED
+[precentage] <color=#0099ff>⚡ AP</color> REGEN REDUCED 
+<color=red>❌\nLOCK DOOR ACTIVE</color>
 <color=#636363>🔊 USING SPEAKER....</color>
 <color=red>❌ \n LOCKDOWN ACTIVE</color>
 <color=#02d1a1>「🔊」BREACH SCANNER</color>

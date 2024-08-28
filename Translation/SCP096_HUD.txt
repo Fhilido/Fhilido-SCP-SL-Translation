@@ -1,8 +1,8 @@
 SCP-096 starts docile, and can become enraged when someone sees its face, or harms it. Rage empowers with many abilities, which assist SCP-096 in following transgressor’s lights before the fury subsides.
-Try Not to Cry:It's hard to go on… but leaning on something helps you to calm down, either to hide… or to wait for someone to come by.
-Melee Attack:Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and injure humans.
-Charge:Cut their escapes short — they deserve it. You bolt straight ahead for a short distance, demolishing anything in your path.
+Try Not to Cry:When rest you can lean on doors and walls, this will couse a little less sound you make by crying. That also double <color=#a000d1>hume shiled</color> regeneration
+Melee Attack:When someone will saw your face you can enter <i>rage</i>. When in rage your point is to kill every person that look at your face. Your atack is so powerfull that can destroy even doors
+Charge:When in rage you can charge on direction you looking. This couse a lot of deamge to anyone, even if they don't saw your face
 Rage Only
-Docile Only
-Hold <b>[key]</b> to enter Rage
-Hold [key] to force-exit Rage
+Rest Only
+SOMEONE LOOK AT YOU\nENTER THE RAGE BY HOLDING <color=red>[R]</color>
+ENTER THE REST MODE BY HOLDING <color=red>[R]</color>

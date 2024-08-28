@@ -1,4 +1,4 @@
-{0}/{1} (<color=#b4b4b4>💠 Ammo</color> type: {2})
+{0}/{1} (<color=#b4b4b4>🔘 Ammo</color> type: {2})
 Damage
 Fire Rate
 Accuracy - Hip 

@@ -12,7 +12,7 @@
 -
 -
 -
-You Are dead
+You are dead
 You were killed by
 as
 Passive

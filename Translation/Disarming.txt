@@ -1,3 +1,3 @@
-Capture by <color=#f56905>[player]</color>
-an administrator
-Follow orders or ask teammates for help.
+Capture by <color=#4f008f>[player]</color>
+<color=#7a02db>administrator</color>
+Follow orders or ask teammates for help

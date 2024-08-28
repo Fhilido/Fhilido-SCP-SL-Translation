@@ -22,7 +22,7 @@ VOICE CHAT
 -
 -
 -
-<color=#00bfff>WAITING FOR PLAYERS\n</color>\n
+<color=#7800f0>WAITING FOR PLAYERS\n</color>\n
 -
 -
 -
