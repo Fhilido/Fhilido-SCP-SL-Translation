@@ -39,7 +39,7 @@ Try to reconect....\n[time]s
 <color=#0096FF>⚡ FIRE TESLA GATE</color> (<color=#0099ff>⚡ [cost] AP</color>)
 <color=red>🕛\nCOOLDOWN</color>
 $<color=#9502b3>💳 ACCESS TIER [tier]</color>$ - <color=#029e09>🔓</color>
-$<color=#0099ff>□ AP</color>$ limit increased to $[limit]$.
+$<color=#0099ff>⚡ AP</color>$ limit increased to $[limit]$.
 $💡 BLACKOUT$ <color=#038003>available</color> (<b>[key]</b>) - disable room lights.
 $💡 BLACKOUT$ capacity <color=#038003>increased</color> to $[number]$
 $<color=red>🔐 LOCKDOWN</color>$<color=#038003> available</color> (<b>$[key]$</b>) - temporarily lock down all doors in a room
@@ -56,8 +56,8 @@ $💡 ZONE BLACKOUT$ <color=#038003>available</color> (<b>[key]</b>) -  Turn off
 <color=red>❌\nCOOLDOWN</color>
 BLACKOUT ACTIVE
 <color=red>❌</color>\nZONE BLACKOUT UNAVAILABLE
-<color=#C20000>🔆</color> & <color=#1aab00>□</color>
-<color=#1aab00>□</color>
+<color=#C20000>🔆</color> & <color=#1aab00>👤</color>
+<color=#1aab00>👤</color>
 <color=#C20000>🔆 SCPs</color>
 <color=#1aab00>👤 Civilians</color>
 <color=#158003>🔫 Military</color>
