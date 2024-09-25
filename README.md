@@ -30,29 +30,21 @@ If translation don't show up check if you copy translation to good folder and if
 <color=#656565>🔆 NO SCP</color> left
 ````
 
-## Example Screenshot from game
-
-
 ## Info
 ### Version
 * 1.0 - The first version of my trnaslation (can have misstakes!)
   * Add every file with translation
  
 ### To do
-* Do better translation to weapon station
 * Settings change
-* Small repair
 * Hints
 * Add more intercom, alpha warhead and Micro HID sign
-* More icons*
-* Rework colors*
-* Better F1 hints (SCP)
+* More icons
 
-*Don't know that I will be adding this
 ## Authors
 
 #### Fhilido
-My social media:
+Social media:
 * [Youtube](https://www.youtube.com/@Fhilido)
 * [TikTok](https://www.tiktok.com/@fhilido)
 * Discord (soon)
