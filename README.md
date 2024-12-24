@@ -24,7 +24,7 @@ This is a translation created by <i>Fhilido</i> and this will be developed as lo
 
 If translation don't show up check if you copy translation to good folder and if translation change by double press <i>subtitles</i> and is that same as this first 4 lines:
 ````
-<color=#003CB4>「👥」MTF Ep-11</color> | <color=#002776>[designation]</color> | 
+<color=#003CB4>「👥」MTF Ep-11</color> | <color=#0062ff>WAVE</color> | <color=#002776>[designation]</color> | 
 <color=#C40000>🔆 [count] SCPs</color> left
 <color=#C40000>🔆 1 SCP</color> left
 <color=#656565>🔆 NO SCP</color> left
