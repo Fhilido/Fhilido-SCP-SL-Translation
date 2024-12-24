@@ -15,5 +15,5 @@ Time from breach begin - <color=#2e02bf>[summary_round_minutes]</color> minutes 
 <color=#88D6D5>[summary_scp_terminated] Neutralized</color> <color=#C20000>SCP</color>
 Next round start in <color=#2e02bf>[summary_next_round_countdown]</color> seconds
 [summary_scpfrags] found dead from contact with <color=red>SCPs</color>
-
-
+<color=#FF59CA>ONLY FLAMINGO</color>
+ONLY FLAMINGO ONLY FLAMINGO ONLY FLAMINGO ONLY FLAMINGO ONLY FLAMINGO ONLY FLAMINGO 

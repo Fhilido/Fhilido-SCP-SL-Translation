@@ -22,6 +22,7 @@
 <color=#adadad>Overwatch</color>
 <color=#0052e0>Filmmaker</color>
 <color=#C20000>Skeleton</color>
+Destroyed
 <color=#FF59CA>Flamingo</color>
-<color=#FF59CA>Flamingo-</color><color=#75205a>Alpha</color>
-<color=#FF59CA>Flamingo-</color><color=#8d1414>Zombie</color>
+<color=#FF59CA>Flamingo</color>-<color=#75205a>Alpha</color>
+<color=#FF59CA>Flamingo</color>-<color=#8d1414>Zombie</color>

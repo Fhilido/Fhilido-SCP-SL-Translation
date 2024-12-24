@@ -48,7 +48,8 @@
 52~<color=#0000ff>🔫 \nFR-MG-0</color>\n\n
 53~<color=#ff0000>🔫 \nA7</color>\n\n
 54~<color=#FF8E00>🏮 \nLantern</color>~Lights the darkest places in facility in <color=#FF8E00>orange</color>
-55~
-56~
-57~
-58~
+55~<color=#0cc7b7>👓 \nSCP-1344</color>~<color=#C20000>⚠ \nSCP Item</color></size>\nGoogles that let see players through walls, but there's one catch, you can't take them off
+56~<color=#ffffff>⚽ \nSnowball</color>
+57~<color=#000000>⚽ \nCoal</color>
+58~<color=#000000>⚽ \nCoal?</color>
+59~<color=#333333>🎴 \nType Player</color>~<color=#C20000>⚠ \nSCP Item</color></size>\nSummon <color=#FF59CA>Flamingo</color>

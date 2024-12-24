@@ -1,6 +1,6 @@
 <color=#00d612>-🔈-</color>
 <color=#00d612>-🔉-</color>\n<color=#027ddb>{0}</color>
-<color=#00d612>-🔉-</color>\n<color=#027ddb>-□-</color>\n
+<color=#00d612>-🔉-</color>\n<color=#027ddb>-💳-</color>\n
 <color=#0088d6>🔄</color>\n{0}
 <color=#00d612>-🔉-</color>\n<color=#bf0000>-🚫-</color>
 <color=#bf0000>-🚫-</color>

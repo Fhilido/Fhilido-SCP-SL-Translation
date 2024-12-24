@@ -1,4 +1,4 @@
-<color=#003CB4>「👥」MTF Ep-11</color> | <color=#002776>[designation]</color> | 
+<color=#003CB4>「👥」MTF Ep-11</color> | <color=#0062ff>WAVE</color> | <color=#002776>[designation]</color> | 
 <color=#C40000>🔆 [count] SCPs</color> left
 <color=#C40000>🔆 1 SCP</color> left
 <color=#656565>🔆 NO SCP</color> left
@@ -26,3 +26,6 @@
 <color=#007ede>「🏬」SITE-02</color> | Emergency Detonation | <color=#ff2b2b>Canceled</color>
 <color=#007ede>「🏬」SITE-02</color> | Emergency Detonation | <color=#ff2b2b>[time] seconds</color> left
 | <color=#FFFFFF>🙍 Marshmallow Man</color> LMAO
+<color=#003CB4>「👥」MTF Ep-11</color> | <color=#6bd0ff>MINI WAVE</color> | <color=#002776>[designation]</color> | 
+<color=#029600>「🌟」CI</color> | <color=#00a32c>WAVE</color>
+<color=#029600>「🌟」CI</color> | <color=#00691c>MINI WAVE</color>
